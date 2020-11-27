@@ -31,7 +31,7 @@ namespace PathfindingTest
                 }
             }
 
-            var outputFile = $"data/output/world-{WORLD_IDX}.bmp";
+            var outputFile = $"data/world-{WORLD_IDX}.bmp";
 
             bitmap.RotateFlip(RotateFlipType.Rotate180FlipX);
             bitmap.Save(outputFile);
