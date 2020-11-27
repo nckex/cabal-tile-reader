@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CabalTileReader": {
+      "commandName": "Project",
+      "workingDirectory": "$(SolutionDir)"
+    }
+  }
+}
